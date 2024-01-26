@@ -1,4 +1,4 @@
-app = "goBob-5f76"
+app = "bob-template"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
